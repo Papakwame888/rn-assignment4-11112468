@@ -1,6 +1,3 @@
-![WhatsApp Image 2024-06-19 at 4 52 31 PM (2)](https://github.com/Papakwame888/rn-assignment4-11112468/assets/170115382/73525622-3c5f-49fd-ada0-87ed8f78724c)
-![WhatsApp Image 2024-06-19 at 4 52 31 PM (1)](https://github.com/Papakwame888/rn-assignment4-11112468/assets/170115382/9bf055fa-b59e-42b3-abc5-709340282aed)
-![WhatsApp Image 2024-06-19 at 4 52 31 PM](https://github.com/Papakwame888/rn-assignment4-11112468/assets/170115382/56b03588-f9d6-41ea-8cdc-ec2127e2d5ba)
 
 Components Description
 LoginScreen:
@@ -21,6 +18,11 @@ PopularJobs to display popular job cards.
 JobCard:
 
 Usage: A reusable component for displaying job details in both featured and popular job sections.
+
+![WhatsApp Image 2024-06-19 at 4 52 31 PM (2)](https://github.com/Papakwame888/rn-assignment4-11112468/assets/170115382/73525622-3c5f-49fd-ada0-87ed8f78724c)
+![WhatsApp Image 2024-06-19 at 4 52 31 PM (1)](https://github.com/Papakwame888/rn-assignment4-11112468/assets/170115382/9bf055fa-b59e-42b3-abc5-709340282aed)
+![WhatsApp Image 2024-06-19 at 4 52 31 PM](https://github.com/Papakwame888/rn-assignment4-11112468/assets/170115382/56b03588-f9d6-41ea-8cdc-ec2127e2d5ba)
+
 Props:
 jobTitle: Title of the job.
 company: Company offering the job.
